@@ -1,4 +1,4 @@
-# 📊 Yandex Market Sales Analytics
+#  Yandex Market Sales Analytics
 
 Аналитика продаж Яндекс Маркета: EDA, анализ подписки Плюс, RFM-сегментация, когортный анализ удержания и прогнозирование спроса.
 
