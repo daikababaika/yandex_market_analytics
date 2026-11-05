@@ -122,7 +122,7 @@ Retention стабилизируется на уровне 20–35% после 2
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/henwrr/yandex-market-analytics.git
+git clone https://github.com/daikababaika/yandex-market-analytics.git
 cd yandex-market-analytics
 
 # Установить зависимости
